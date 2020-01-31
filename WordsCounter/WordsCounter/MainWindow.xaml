@@ -18,7 +18,7 @@
             <TextBox DockPanel.Dock="Top" x:Name="StringBox" Height="auto" Width="auto"/>
             <Button DockPanel.Dock="Top" x:Name="CountButton" Content="Count" Height="30" Width="70" HorizontalAlignment="Left" Margin="20" Click="CountButton_Click"/>
             <TextBlock DockPanel.Dock="Top" Height="30" Width="100" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15" Text="Words in total:" ></TextBlock>
-            <TextBlock x:Name="ResultBlock" DockPanel.Dock="Right" Height="30" Width="100" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="30" ></TextBlock>
+            <TextBlock x:Name="ResultBlock" DockPanel.Dock="Right" Height="60" Width="100" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="30" ></TextBlock>
         
         </DockPanel>
         
